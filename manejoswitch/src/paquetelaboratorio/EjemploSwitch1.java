@@ -65,7 +65,7 @@ public class EjemploSwitch1 {
                         placa.toUpperCase());
                 break;            
             default:
-                System.out.printf("La placa %s no pertenece a la "
+                System.out.printf("La placa %s ingresada no pertenece a la "
                         + "regiòn de la Costa\n", 
                         placa.toUpperCase ());
         }
